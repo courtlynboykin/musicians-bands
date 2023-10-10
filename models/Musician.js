@@ -14,4 +14,4 @@ Musician.init({
 console.log(Musician)
 
 
-module.exports = Musician;
+module.exports = {Musician};
